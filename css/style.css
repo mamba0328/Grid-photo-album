@@ -1,7 +1,7 @@
 @import url('./normalize.css');
 @import url('./vars.css');
 @import url('../assets/fonts/Roboto-Regular.ttf');
-@import url('../assets/fonts/DeliusUnicase-Regular.ttf');
+@import url('https://fonts.googleapis.com/css2?family=Delius+Unicase&display=swap');
 
 * {
     box-sizing: border-box;
